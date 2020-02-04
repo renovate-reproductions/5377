@@ -1,0 +1,1 @@
+# renovate-multi-gradle-test
