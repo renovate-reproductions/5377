@@ -3,5 +3,5 @@ plugins {
 }
 
 dependencies {
-	testImplementation("ch.tutteli.atrium:atrium-fluent-en_GB:0.9.0")
+	testImplementation("ch.tutteli.atrium:atrium-fluent-en_GB:0.16.0")
 }
