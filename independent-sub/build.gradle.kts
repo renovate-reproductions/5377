@@ -7,5 +7,5 @@ repositories {
 }
 
 dependencies {
-	implementation("ch.tutteli.kbox:kbox:0.14.1")
+	implementation("ch.tutteli.kbox:kbox:0.15.1")
 }
